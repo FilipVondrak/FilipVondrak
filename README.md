@@ -1,17 +1,14 @@
-## Hi, I'm Filip Vondrák 👋
+## Hi, I'm Filip Vondrák
 
 I'm a Computer Science student at **Brno University of Technology (VUT FIT)** with a strong interest in **backend development**, **systems programming**, and **open source**.
 I’ve participated in multiple hackathons and cybersecurity competitions.
 
-Linux Enthusiast 🐧 
-– I use Linux daily and enjoy diving into open-source projects and tools.
-
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 <div align="left" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipVondrak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### 🔧 Languages & Frameworks:
+### Languages & Frameworks:
 **Main:** 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -56,7 +53,7 @@ Linux Enthusiast 🐧
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-### 🧰 Tools & Skills:
+### Tools & Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
